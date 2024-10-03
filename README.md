@@ -1,2 +1,2 @@
 # python_devops
-Repo for learnign python in DevOps
+Repo for learning python in DevOps
