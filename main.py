@@ -1,3 +1,3 @@
-from devopslib.randomfruit import fruits
+from devopslib.randomfruit import fruit
 
-print(fruits())
+print(fruit())
